@@ -11,9 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8DB7B3B9-3BC9-4AF1-8FB8-BDC3E1007EE5}</ProjectGuid>
+    <ProjectGuid>{3D5642D0-10DD-4499-93CE-0A426E2C1607}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My20180911helloworld</RootNamespace>
+    <RootNamespace>My20181002변수자료형</RootNamespace>
+    <ProjectName>20181002 int</ProjectName>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -77,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="커피.cpp" />
+    <ClCompile Include="벼연수.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
