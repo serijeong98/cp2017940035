@@ -1,0 +1,4 @@
+﻿  인수.cpp
+c:\users\tpfl5\desktop\2017940035 정세리\hw2-10\인수.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  HW2-10.vcxproj -> C:\Users\tpfl5\Desktop\2017940035 정세리\Debug\HW2-10.exe
