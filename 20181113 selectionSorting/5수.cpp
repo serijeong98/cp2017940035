@@ -38,14 +38,14 @@ void swapElement(int* arr, int i, int j) {
 출력: 없음
 부수효과: 배열이 정렬됨*/
 void selectSort(int* arr, int length) {
-	int x;
-	for (x = 1; x < 4; x++) {
-		swapElement(arr, x, min);
-	};
-
+	for (int pass=1; pass < length-1; pass++) {
+			int result;
+			result = findMinIndex(arr+pass, length-pass);
+			swapElement(arr, result+pass, pass);	
+	}
 }
 /*함수: findMin()
-입력: 배열(배열이름, 배역길이)
+입력: 배열(배열이름, 배열길이)
 출력: 배열 최소값*/
 int findMin(int* arr, int length) {
 	int min = arr[0];
@@ -61,6 +61,8 @@ int main() {
 	printf("minimum value of the array is %d\n", findMin(a, 5));
 	printf("The index of the minimum value is %d\n", findMinIndex(a, 5));
 	swapElement(a, 0, 3);
+	selectSort(a, 5);
 	printArray(a, 5);
+
 	return 0;
 }
