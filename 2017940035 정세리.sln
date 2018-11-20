@@ -91,6 +91,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181113 arraynpointer", "2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181113 selectionSorting", "20181113 selectionSorting\20181113 selectionSorting.vcxproj", "{CD362238-61D1-4C22-8744-3384DF0080FE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120 InsertionSorting", "20181120 InsertionSorting\20181120 InsertionSorting.vcxproj", "{76AAB613-0832-40C4-AFC8-1B2F9294FB31}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120 문자", "20181120 문자\20181120 문자.vcxproj", "{B72A1571-AC43-4FC4-A011-371348E5E866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -445,6 +449,22 @@ Global
 		{CD362238-61D1-4C22-8744-3384DF0080FE}.Release|Win32.Build.0 = Release|Win32
 		{CD362238-61D1-4C22-8744-3384DF0080FE}.Release|x64.ActiveCfg = Release|x64
 		{CD362238-61D1-4C22-8744-3384DF0080FE}.Release|x64.Build.0 = Release|x64
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Debug|Win32.Build.0 = Debug|Win32
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Debug|x64.ActiveCfg = Debug|x64
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Debug|x64.Build.0 = Debug|x64
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Release|Win32.ActiveCfg = Release|Win32
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Release|Win32.Build.0 = Release|Win32
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Release|x64.ActiveCfg = Release|x64
+		{76AAB613-0832-40C4-AFC8-1B2F9294FB31}.Release|x64.Build.0 = Release|x64
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Debug|Win32.Build.0 = Debug|Win32
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Debug|x64.ActiveCfg = Debug|x64
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Debug|x64.Build.0 = Debug|x64
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|Win32.ActiveCfg = Release|Win32
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|Win32.Build.0 = Release|Win32
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|x64.ActiveCfg = Release|x64
+		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
