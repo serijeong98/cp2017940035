@@ -95,6 +95,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120 InsertionSorting",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120 문자", "20181120 문자\20181120 문자.vcxproj", "{B72A1571-AC43-4FC4-A011-371348E5E866}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181127 구조체", "20181127 구조체\20181127 구조체.vcxproj", "{99320911-5373-45CE-B374-F12B42EC04FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -465,6 +467,14 @@ Global
 		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|Win32.Build.0 = Release|Win32
 		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|x64.ActiveCfg = Release|x64
 		{B72A1571-AC43-4FC4-A011-371348E5E866}.Release|x64.Build.0 = Release|x64
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Debug|Win32.Build.0 = Debug|Win32
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Debug|x64.ActiveCfg = Debug|x64
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Debug|x64.Build.0 = Debug|x64
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Release|Win32.ActiveCfg = Release|Win32
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Release|Win32.Build.0 = Release|Win32
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Release|x64.ActiveCfg = Release|x64
+		{99320911-5373-45CE-B374-F12B42EC04FC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

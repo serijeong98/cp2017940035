@@ -1,0 +1,4 @@
+﻿  구조체.cpp
+c:\users\tpfl5\desktop\2017940035 정세리\20181127 구조체\구조체.cpp(51): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\tpfl5\desktop\2017940035 정세리\20181127 구조체\구조체.cpp(45): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+  20181127 구조체.vcxproj -> C:\Users\tpfl5\Desktop\2017940035 정세리\Debug\20181127 구조체.exe
